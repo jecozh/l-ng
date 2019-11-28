@@ -142,52 +142,52 @@ var hashKeys = new Array();
 timetable.lessons = lessonArray;
 var sections = [{
   section : 1,
-  start_time : '08:00',
-  end_time : '08:45'
+  start_time : '08:30',
+  end_time : '09:15'
 },{
   section : 2,
-  start_time : '08:55',
-  end_time : '09:40'
+  start_time : '09:20',
+  end_time : '10:05'
 },{
   section : 3,
-  start_time : '10:00',
-  end_time : '10:45'
+  start_time : '10:25',
+  end_time : '11:10'
 },{
   section : 4,
-  start_time : '10:55',
-  end_time : '11:40'
+  start_time : '11:15',
+  end_time : '12:00'
 },{
   section : 5,
-  start_time : '13:00',
-  end_time : '13:45'
+  start_time : '14:00',
+  end_time : '14:45'
 },{
   section : 6,
-  start_time : '13:55',
-  end_time : '14:40'
-},{
-  section : 7,
   start_time : '14:50',
   end_time : '15:35'
 },{
+  section : 7,
+  start_time : '15:55',
+  end_time : '16:40'
+},{
   section : 8,
-  start_time : '15:45',
-  end_time : '16:30'
+  start_time : '16:45',
+  end_time : '17:30'
 },{
   section : 9,
-  start_time : '16:40',
-  end_time : '17:25'
+  start_time : '18:30',
+  end_time : '19:15'
 },{
   section : 10,
-  start_time : '17:35',
-  end_time : '18:20'
+  start_time : '19:20',
+  end_time : '20:05'
 },{
   section : 11,
-  start_time : '20:50',
-  end_time : '21:35'
+  start_time : '20:10',
+  end_time : '21:55'
 },{
   section : 12,
-  start_time : '21:45',
-  end_time : '22:30'
+  start_time : '21:55',
+  end_time : '22:40'
 }];
 
 LINGResultJSON.timetable = timetable;
