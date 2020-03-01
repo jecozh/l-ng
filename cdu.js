@@ -182,12 +182,12 @@ var sections = [{
   end_time : '20:05'
 },{
   section : 11,
-  start_time : '20:10',
-  end_time : '21:55'
+  start_time : '20:15',
+  end_time : '21:00'
 },{
   section : 12,
-  start_time : '21:55',
-  end_time : '22:40'
+  start_time : '21:05',
+  end_time : '21:50'
 }];
 
 LINGResultJSON.timetable = timetable;
